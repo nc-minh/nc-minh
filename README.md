@@ -21,11 +21,16 @@ NguyenCongMinh
 
 ## Technology
 
-Use the [JavaScipt](https://www.javascript.com/) language to run the program.
-
-```bash
-Js
-```
+<div align="center">
+    <img src="img/html.png" alt="">
+    <img src="img/css.png" alt="">
+    <img src="img/js.png" alt="">
+    <img src="img/reactjs.png" alt="">
+    <img src="img/vuejs.png" alt="">
+    <img src="img/java.png" alt="">
+    <img src="img/Github.png" alt="">
+    <img src="img/C.png" alt="">
+</div>
 
 ## Usage
 
