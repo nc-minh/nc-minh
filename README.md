@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Everything :))
 - 📫 How to reach me: Follow me
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I'm gay
+- ⚡ Fun fact: ^^
 
 
 # Info
@@ -33,28 +33,13 @@ NguyenCongMinh
 </div>
 
 ## Most Used Languages
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyencongminh-dev&layout=compact&hide=html" alt="nguyencongminh-dev" /></div>
-<br />
+<br/>
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyencongminh-dev&show_icons=true&theme=radical" alt="nguyencongminh-dev" /></div>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyencongminh-dev&langs_count=10&hide=hack" alt="nguyencongminh-dev" /></div>
+<br/>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyencongminh-dev&langs_count=10" alt="nguyencongminh-dev" /></div>
+<br/>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nguyencongminh-dev" alt="nguyencongminh-dev" /></div>
 
-
-
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
