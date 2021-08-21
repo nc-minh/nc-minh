@@ -37,8 +37,6 @@ NguyenCongMinh
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyencongminh-dev&show_icons=true&theme=radical" alt="nguyencongminh-dev" /></div>
 <br/>
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyencongminh-dev&langs_count=10" alt="nguyencongminh-dev" /></div>
-<br/>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nguyencongminh-dev" alt="nguyencongminh-dev" /></div>
 
 
 ## Contributing
