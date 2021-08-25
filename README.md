@@ -10,11 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ^^
 
-
-# Info
-
-NguyenCongMinh
-
 ## Technology
 
 <div align="center">
