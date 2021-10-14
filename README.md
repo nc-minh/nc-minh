@@ -25,9 +25,9 @@
 
 ## Most Used Languages
 <br/>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyencongminh-dev&show_icons=true&theme=radical" alt="nguyencongminh-dev" /></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nc-minh&show_icons=true&theme=radical" alt="nc-minh" /></div>
 <br/>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyencongminh-dev&langs_count=10" alt="nguyencongminh-dev" /></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nc-minh&langs_count=10&theme=tokyonight&layout=compact" alt="nc-minh" /></div>
 
 
 ## Contributing
