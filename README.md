@@ -1,3 +1,8 @@
+<head>
+  <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+
 ## Hi there 👋
 <div align="center" >
     <img width="350px" src="img/title.png"/>
@@ -59,7 +64,6 @@
 <br/>
 <div align="center" width="100%">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nc-minh&show_icons=true&theme=radical" alt="nc-minh" />
-</br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nc-minh&langs_count=10&theme=tokyonight&layout=compact" alt="nc-minh" />
 </div>
 
@@ -71,3 +75,5 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+</body>
