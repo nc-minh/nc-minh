@@ -57,7 +57,8 @@
 ## My Github Stats 📊
 <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=redical" /></a>
 <br/>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nc-minh&show_icons=true&theme=radical" alt="nc-minh" />
+<div align="center" width="100%">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nc-minh&show_icons=true&theme=radical" alt="nc-minh" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nc-minh&langs_count=10&theme=tokyonight&layout=compact" alt="nc-minh" />
 </div>
 
