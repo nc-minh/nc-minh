@@ -1,7 +1,3 @@
-<head>
-  <link rel="stylesheet" href="styles/main.css">
-</head>
-<body>
 
 ## Hi there 👋
 <div align="center" >
@@ -75,5 +71,3 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
-</body>
