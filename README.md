@@ -5,13 +5,14 @@
 </div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nguyễn Công Minh</h1>
 <h3 align="center">I majored in Information Technology.</h3>
+<h3 align="center"><strong>&hearts;Learning to share, sharing to learn&hearts;</strong></h3>
 
 
 - 🔭 I’m currently working on **[devchat.me](https://devchat.me/)**
 - 🌱 I’m currently learning many Languages
 - 👯 I'm looking to collaborate with everyone and fields
 - 🤔 I’m looking for help with everyone
-- 💬 Ask me about Everything :))
+- 💬 Ask me about 'anh co nguoi yeu chuaaa'
 - 📫 How to reach me: Follow me
 - 😄 Pronouns: dz
 - ⚡ Fun fact: ^^
