@@ -8,7 +8,7 @@
 <h3 align="center"><strong>&hearts;Learning to share, sharing to learn&hearts;</strong></h3>
 
 
-- 🔭 I’m currently working on **[devchat.me](https://nguyencongminh.dev/)**
+- 🔭 I’m currently working on **[nguyencongminh.me](https://nguyencongminh.dev/)**
 - 🌱 I’m currently learning many Languages
 - 👯 I'm looking to collaborate with everyone and fields
 - 🤔 I’m looking for help with everyone
@@ -17,6 +17,9 @@
 - 😄 Pronouns: dz
 - ⚡ Fun fact: ^^
 
+<div align="center" width="100%">
+<a href="https://app.daily.dev/ncminh"><img src="https://api.daily.dev/devcards/9f12155937fb4804bc22a9a3902ff2ef.png?r=dqe" width="400" alt="Nguyen Cong Minh's Dev Card"/></a>
+</div>
 ## Languages and Tools 🚀
 
 <div align="center">
