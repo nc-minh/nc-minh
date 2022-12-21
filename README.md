@@ -22,8 +22,8 @@
 
 <br/>
 <div align="center" width="100%">
-<img align="center" height="250px" src="https://github-readme-stats.vercel.app/api?username=nc-minh&show_icons=true&theme=radical" alt="nc-minh" />
-<img align="center" height="250px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nc-minh&langs_count=10&theme=tokyonight&layout=compact" alt="nc-minh" />
+<img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=nc-minh&show_icons=true&theme=radical" alt="nc-minh" />
+<img align="center" height="165px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nc-minh&langs_count=10&theme=tokyonight&layout=compact" alt="nc-minh" />
 </div>
 
 ## Contributing
