@@ -26,6 +26,10 @@
 <img align="center" height="165px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nc-minh&langs_count=10&theme=tokyonight&layout=compact" alt="nc-minh" />
 </div>
 
+## 🧰 Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,go,docker,kubernetes,aws,git,github,linux,vscode" alt="My Skills" />
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
