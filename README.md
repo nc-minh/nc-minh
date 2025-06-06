@@ -28,7 +28,7 @@
 
 ## 🧰 Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,go,docker,kubernetes,aws,git,github,linux,vscode" alt="My Skills" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,go,docker,kubernetes,aws,git,github,linux,vscode" alt="My Skills" />
 
 ## Contributing
 
